@@ -36,13 +36,13 @@ profiles:
 
   
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/schattenklaus
+ # - icon: brands/linkedin
+  #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=eybN8e0AAAAJ&hl=de
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8389-8869
 
 interests:
   - Explainable Artificial Intelligence
