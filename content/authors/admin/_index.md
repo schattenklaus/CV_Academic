@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CV Steffen Seitz
+title: Steffen Seitz
 
 # Name pronunciation (optional)
 name_pronunciation: ''
