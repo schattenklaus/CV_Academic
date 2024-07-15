@@ -42,7 +42,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: hhttps://scholar.google.com/citations?user=eybN8e0AAAAJ&hl=de
   - icon: academicons/orcid
     url: https://orcid.org/
 
