@@ -35,12 +35,12 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Steffen Seitz"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Steffen Seitz. This work is licensed under {license}'
+    notice: '© {year} Steffen Seitz. All content is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
