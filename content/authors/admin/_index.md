@@ -52,10 +52,10 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Electrical Engineering & Artificial Intelligence
+    institution: Technische Universität Dresden
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2024-10-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -72,20 +72,20 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Dipl.-Ing. Electrical Engineering
+    institution: Technische Universität Dresden
+    date_start: 2010-10-01
+    date_end: 2016-04-04
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.0/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Associate
+    company_name: Technische Universität Dresden
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -142,11 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: German
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Englisch
+    percent: 100
+  - name: Latin
     percent: 25
 
 # Awards.
